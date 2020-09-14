@@ -1,6 +1,6 @@
 # Foglight Scripts
 
-This project contains some useful scripts for Quest Foglight for Database (database performance monitoring solution).
+This project contains some useful scripts for Quest Foglight for Databases (database performance monitoring solution).
 
 Scripts added for these databases:
 
